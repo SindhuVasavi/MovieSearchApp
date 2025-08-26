@@ -1,10 +1,3 @@
-Perfect 👍 A `README.md` file makes your GitHub project look professional and helps others (and you in future) understand the project.
-
-Here’s a clean **README.md content** for your **Movie Search App** 👇
-
----
-
-```markdown
 # 🎬 Movie Search App
 
 A React.js application that allows users to search for movies using the [OMDb API](https://www.omdbapi.com/).  
